@@ -1,0 +1,135 @@
+REPOSITION Framework — Proprietary License
+
+Copyright (c) 2026 Merryl DMello. All rights reserved.
+
+1. DEFINITIONS
+
+   "Software" means the REPOSITION plugin source code, skill definitions,
+   command files, scan engines, question banks, report templates, and all
+   associated documentation distributed in this repository.
+
+   "Author" means Merryl DMello, the sole copyright holder.
+
+   "User" means any individual or organization that installs, accesses, or
+   uses the Software.
+
+   "Claude Code" means the Anthropic CLI tool through which the Software
+   operates as a plugin.
+
+2. GRANT OF LICENSE
+
+   Subject to the terms of this license, the Author grants the User a
+   limited, non-exclusive, non-transferable, revocable license to:
+
+   a) Install and use the Software as Claude Code plugins for the User's
+      own internal development purposes.
+
+   b) Use the Software on any number of the User's own projects and
+      repositories.
+
+   c) Share the marketplace installation command with colleagues within
+      the User's own organization for their internal use.
+
+3. RESTRICTIONS
+
+   The User SHALL NOT:
+
+   a) Copy, modify, merge, adapt, translate, or create derivative works
+      based on the Software, in whole or in part.
+
+   b) Distribute, sublicense, sell, lease, rent, or otherwise transfer
+      the Software or any rights therein to any third party.
+
+   c) Publish, host, mirror, or redistribute the Software through any
+      marketplace, registry, package manager, or distribution channel
+      other than the Author's official GitHub repository.
+
+   d) Remove, alter, or obscure any copyright notices, license text, or
+      attribution contained in the Software.
+
+   e) Use the Software to build, train, or improve any competing product,
+      service, framework, or offering that provides developer assessment,
+      onboarding, or AI readiness evaluation.
+
+   f) Reverse engineer, decompile, or disassemble the Software, except
+      to the extent that such activity is expressly permitted by
+      applicable law notwithstanding this limitation.
+
+   g) Use the Software to provide services to third parties (including
+      but not limited to consulting, training, or managed services)
+      without a separate written commercial agreement with the Author.
+
+   h) Incorporate the Software or any portion thereof into any product
+      or service offered to third parties, whether commercial or free.
+
+4. INTELLECTUAL PROPERTY
+
+   The Software and all copies thereof are proprietary to the Author and
+   title thereto remains in the Author. All rights in the Software not
+   specifically granted in this license are reserved to the Author.
+
+   The REPOSITION name, framework methodology, assessment scoring model,
+   scan signal definitions, spiral learning path design, and 3-3-3 review
+   cycle structure are proprietary intellectual property of the Author.
+
+5. DATA AND PRIVACY
+
+   a) The Software operates locally on the User's machine. No data is
+      transmitted to the Author or any third party by the Software itself.
+
+   b) Assessment results, scan data, and onboarding documents generated
+      by the Software are owned by the User and stored locally in the
+      User's project directory.
+
+   c) The Software interacts with Claude Code (an Anthropic product).
+      The User's use of Claude Code is governed by Anthropic's own terms
+      of service, which are separate from this license.
+
+6. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+   NONINFRINGEMENT. THE AUTHOR DOES NOT WARRANT THAT THE SOFTWARE WILL
+   BE ERROR-FREE, UNINTERRUPTED, OR FREE OF HARMFUL COMPONENTS.
+
+7. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
+   INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING
+   BUT NOT LIMITED TO LOSS OF PROFITS, DATA, OR BUSINESS INTERRUPTION)
+   ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE
+   SOFTWARE, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE POSSIBILITY OF
+   SUCH DAMAGES.
+
+8. TERMINATION
+
+   a) This license is effective until terminated. The Author may terminate
+      this license at any time, for any reason, by providing written
+      notice to the User.
+
+   b) This license terminates automatically if the User breaches any term
+      of this license. Upon termination, the User must immediately cease
+      all use of the Software and destroy all copies in their possession.
+
+   c) Sections 3, 4, 6, 7, and 9 survive termination.
+
+9. GOVERNING LAW
+
+   This license shall be governed by and construed in accordance with the
+   laws of the jurisdiction in which the Author resides, without regard
+   to conflict of law principles.
+
+10. ENTIRE AGREEMENT
+
+    This license constitutes the entire agreement between the Author and
+    the User regarding the Software and supersedes all prior negotiations,
+    representations, or agreements relating thereto.
+
+11. CONTACT
+
+    For commercial licensing, partnership inquiries, or permissions beyond
+    the scope of this license, contact:
+
+    Merryl DMello
+    https://github.com/rolan86
