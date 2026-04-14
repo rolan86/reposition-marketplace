@@ -1,0 +1,27 @@
+{
+  "name": "reposition",
+  "description": "REPOSITION — AI readiness assessment and developer onboarding plugins for Claude Code",
+  "owner": {
+    "name": "Merryl DMello"
+  },
+  "plugins": [
+    {
+      "name": "reposition-assess",
+      "description": "AI Readiness Assessment — scan your project and measure AI integration across 4 domains",
+      "version": "0.1.0",
+      "source": "./reposition-assess",
+      "author": {
+        "name": "Merryl DMello"
+      }
+    },
+    {
+      "name": "reposition-onboard",
+      "description": "Onboarding Accelerator — learn any codebase and ship your first contribution on day 1",
+      "version": "0.1.0",
+      "source": "./reposition-onboard",
+      "author": {
+        "name": "Merryl DMello"
+      }
+    }
+  ]
+}
