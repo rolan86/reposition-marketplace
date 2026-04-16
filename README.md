@@ -15,6 +15,7 @@ Then install the plugins you want:
 ```bash
 claude plugin install reposition-assess
 claude plugin install reposition-onboard
+claude plugin install reposition-equip
 ```
 
 ## Plugins
@@ -46,11 +47,23 @@ Learn any codebase and ship your first contribution on day 1. The plugin scans t
 | `/reposition-ask` | Quick Q&A about the codebase (reuses previous scan) |
 | `/reposition-contribute` | Jump to guided contribution |
 
+### reposition-equip
+
+Deliver a complete AI-assisted development toolkit configured for your stack. Detects your tech stack, asks a few questions about your team's conventions, then generates a configured CLAUDE.md, methodology guide, prompt library, code review checklists, git hooks, test scaffolding, and workflow guides. No assessment, no scores — just practical tools.
+
+**Time:** 5-10 minutes
+
+| Command | Description |
+|---------|-------------|
+| `/reposition-equip` | Full toolkit delivery: stack detection, configure conventions, deliver everything |
+| `/reposition-inventory` | Check what was delivered, verify status, regenerate missing pieces |
+
 ## Uninstall
 
 ```bash
 claude plugin uninstall reposition-assess
 claude plugin uninstall reposition-onboard
+claude plugin uninstall reposition-equip
 ```
 
 To remove the marketplace entirely:
