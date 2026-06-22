@@ -62,3 +62,7 @@ claude plugin marketplace remove reposition
 ## License
 
 Proprietary. Part of the REPOSITION Framework by Merryl DMello.
+
+## Maintainer
+
+Part of [REPOSITION](https://reposition.dev): free AI workshops and consulting for professionals who already know how to work and want to work with AI. Built by [Merryl D'Mello](https://reposition.dev).
